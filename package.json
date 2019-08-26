@@ -1,5 +1,5 @@
 {
-  "name": "pinyin-cjs",
+  "name": "@ali/pinyin-cjs",
   "version": "2.9.0",
   "description": "汉语拼音转换工具。基于原仓库转为es5",
   "files": [
