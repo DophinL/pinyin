@@ -70,6 +70,9 @@
       "object-assign": "~4.0.1"
     }
   },
+  "publishConfig": {
+    "registry": "https://registry.npm.alibaba-inc.com"
+  },
   "browser": "lib/web-pinyin.js",
   "license": "MIT"
 }
