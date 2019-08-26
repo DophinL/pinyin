@@ -1,6 +1,6 @@
 {
   "name": "@ali/pinyin-cjs",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "description": "汉语拼音转换工具。基于原仓库转为es5",
   "files": [
     "bin",
@@ -57,7 +57,7 @@
     "request": "~2.68.0"
   },
   "spm": {
-    "main": "lib/web-pinyin.js",
+    "main": "cjs/web-pinyin.js",
     "devDependencies": {
       "expect.js": "0.3.1",
       "url": "1.2.0"
@@ -73,6 +73,6 @@
   "publishConfig": {
     "registry": "https://registry.npm.alibaba-inc.com"
   },
-  "browser": "lib/web-pinyin.js",
+  "browser": "cjs/web-pinyin.js",
   "license": "MIT"
 }
